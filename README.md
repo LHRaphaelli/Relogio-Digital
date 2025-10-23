@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo a criação de um relógio digital dinâmico, exibindo a hora em tempo real de forma clara.
 
-![Relógio digital](https://github.com/user-attachments/assets/312e2e87-d189-4672-8d78-40fd4ee327dd)
+![Relógio digital](https://github.com/user-attachments/assets/2eac4e67-3dad-4fb3-ad28-4a8cb19ec4b7)
 
 ### Tecnologias utilizadas
 
